@@ -1,1 +1,2 @@
 # AI-Based-Urban-Traffic-Crowd-Risk-Prediction-System
+## AI-Based Urban Traffic & Crowd Risk Prediction System — A Python and machine learning project that analyzes urban traffic and crowd data to predict potential high-risk situations and provide data-driven insights for proactive traffic and safety management.
